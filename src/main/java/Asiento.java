@@ -1,6 +1,7 @@
+package test;
+
 import java.util.Arrays;
 
-//package test;
 
 public class Asiento {
 	String color;
